@@ -25,7 +25,7 @@ repositories:
 
 website: "https://karmada.io/"
 
-artwork: "https://landscape.cncf.io/logos/karmada.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/karmada"
 
 adopters:
   path: "https://github.com/karmada-io/karmada/blob/master/ADOPTERS.md"
